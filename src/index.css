@@ -1,0 +1,30 @@
+nav a{
+  text-decoration: none;
+  color: white;
+}
+nav a:hover{
+  color: black;
+}
+
+.bg-dark{
+  height: 170px;
+}
+
+.form-control {
+  width: 350px;
+  
+}
+.position-relative{
+  align-content: center;
+  font-weight: bold;
+}
+.btn-outline-info {
+  --bs-btn-color: #fff;
+  --bs-btn-border-color: #212529;
+  --bs-btn-hover-color: #000;
+  --bs-btn-hover-bg: #ffc107;
+  --bs-btn-hover-border-color: #ffc107;
+  --bs-btn-active-bg: #ffc107;
+  --bs-btn-active-border-color: #ffc107;
+
+}
